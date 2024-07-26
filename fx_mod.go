@@ -1,7 +1,7 @@
-package pkg
+package redis_library
 
 import (
-	"github.com/neiasit/redis-library/pkg/core"
+	"github.com/neiasit/redis-library/core"
 	"go.uber.org/fx"
 )
 
